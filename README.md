@@ -11,7 +11,7 @@
 [![Status](https://img.shields.io/badge/status-thesis%20project-success)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**Tekirdağ Namık Kemal Üniversitesi — Bilgisayar Mühendisliği Bölümü — Bitirme Tezi**
+**Tekirdağ Namık Kemal Üniversitesi — Bilgisayar Mühendisliği Bölümü — Bitirme Tezi 1**
 **Besat Arif ÇINGAR** · Advisor: Dr. Öğr. Üyesi Halil Nusret BULUŞ
 
 </div>
