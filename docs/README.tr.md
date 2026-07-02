@@ -253,7 +253,7 @@ tezin §7.1 bölümüne bakınız):
 ## Yazar ve Teşekkür
 
 **Besat Arif ÇINGAR** — Bilgisayar Mühendisliği, Tekirdağ Namık Kemal
-Üniversitesi (Öğrenci No: 1230606902).
+Üniversitesi ().
 
 Bu proje; tasarım, donanım, gömülü yazılım, bulut şeması, mobil/web
 uygulama, biyofiziksel modelleme ve yazım dahil olmak üzere tek kişi
