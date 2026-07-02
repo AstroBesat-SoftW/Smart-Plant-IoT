@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="assets/images/banner.jpg" alt="Akıllı Ziraat" width="100%" />
 
 # 🌱 Akıllı Ziraat
@@ -14,6 +13,18 @@
 
 **Tekirdağ Namık Kemal Üniversitesi — Bilgisayar Mühendisliği Bölümü — Bitirme Tezi**
 **Besat Arif ÇINGAR** · Advisor: Dr. Öğr. Üyesi Halil Nusret BULUŞ
+
+</div>
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+
+[![Watch the demo](https://img.youtube.com/vi/E7rBVvJ6eJM/hqdefault.jpg)](https://www.youtube.com/shorts/E7rBVvJ6eJM)
+
+**[▶ Watch on YouTube](https://www.youtube.com/shorts/E7rBVvJ6eJM)**
 
 </div>
 
