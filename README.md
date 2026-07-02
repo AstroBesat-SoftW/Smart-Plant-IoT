@@ -22,9 +22,9 @@
 
 <div align="center">
 
-[![Watch the demo](https://img.youtube.com/vi/E7rBVvJ6eJM/hqdefault.jpg)](https://www.youtube.com/shorts/E7rBVvJ6eJM)
+[![Watch the demo](https://img.youtube.com/vi/pfoTzipqWHc/hqdefault.jpg)](https://youtube.com/shorts/pfoTzipqWHc)
 
-**[▶ Watch on YouTube](https://www.youtube.com/shorts/E7rBVvJ6eJM)**
+**[▶ Watch on YouTube](https://youtube.com/shorts/pfoTzipqWHc)**
 
 </div>
 
