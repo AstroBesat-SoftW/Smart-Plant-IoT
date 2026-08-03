@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/images/banner.jpg" alt="Akıllı Ziraat" width="100%" />
+<img src="assets/images/banner.jpg" alt="Akıllı Ziraat" width="99%" />
 
 # 🌱 Akıllı Ziraat
 ### IoT-Based Smart Plant Management & Analysis System
