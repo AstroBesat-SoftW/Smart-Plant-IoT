@@ -241,8 +241,7 @@ Measured during real-world testing (see thesis §7.1 for full detail):
 
 ## Author & Acknowledgments
 
-**Besat Arif ÇINGAR** — Computer Engineering, Tekirdağ Namık Kemal
-University ().
+**Besat Arif ÇINGAR** — Computer Engineering
 
 This was a solo undergraduate thesis project — design, hardware,
 firmware, cloud schema, mobile/web app, biophysical modeling, and
