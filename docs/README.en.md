@@ -243,10 +243,6 @@ Measured during real-world testing (see thesis §7.1 for full detail):
 
 **Besat Arif ÇINGAR** — Computer Engineering
 
-This was a solo undergraduate thesis project — design, hardware,
-firmware, cloud schema, mobile/web app, biophysical modeling, and
-writing were all done individually. Sincere thanks to my advisor,
-**Dr. Öğr. Üyesi Halil Nusret BULUŞ**, for the guidance throughout.
 
 Interested in the full source, a demo, or have questions about the
 implementation? Open an issue on this repository or reach out directly.
