@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/images/banner.jpg" alt="Akıllı Ziraat" width="100%" />
 
-# 🌱 Akıllı Ziraat
+# 🌱 Ziraat
 ### IoT-Based Smart Plant Management & Analysis System
 
 [![Platform](https://img.shields.io/badge/platform-ESP8266-00979D?logo=arduino&logoColor=white)](firmware/)
