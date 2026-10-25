@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
-**Besat Arif ÇINGAR** · 
+**Besat Arif ÇINGAR**
 
 </div>
 
